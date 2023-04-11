@@ -8,8 +8,8 @@ With this project we changing theme with caching using hive.
 
 <br>
 <p float="left">
-  <img hspace="20" src="readme_files/light.jpg" width="200" />
   <img hspace="20"  src="readme_files/dark.jpg" width="200" />
+  <img hspace="20" src="readme_files/light.jpg" width="200" />
   <img hspace="20"  src="readme_files/system.jpg" width="200" />
 </p>
 
